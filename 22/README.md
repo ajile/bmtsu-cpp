@@ -1,0 +1,35 @@
+# Тема 22. Использование указателей при работе со строками С++.
+
+Проверить правильность расположения в тексте круглых скобок (количество открывающихся и закрывающихся скобок должно совпадать). Пользуясь указателями определить адрес символов, расположенных между 2й открывающейся и ближайшей закрывающейся скобками.
+
+
+## Результат
+
+```
+>> The string: "Hello it's a string (an array (first of second brackets) of chars (there is no another way to declare a string in c++))"
+f = 0x7ffe9ae6be7f
+i = 0x7ffe9ae6be80
+r = 0x7ffe9ae6be81
+s = 0x7ffe9ae6be82
+t = 0x7ffe9ae6be83
+  = 0x7ffe9ae6be84
+o = 0x7ffe9ae6be85
+f = 0x7ffe9ae6be86
+  = 0x7ffe9ae6be87
+s = 0x7ffe9ae6be88
+e = 0x7ffe9ae6be89
+c = 0x7ffe9ae6be8a
+o = 0x7ffe9ae6be8b
+n = 0x7ffe9ae6be8c
+d = 0x7ffe9ae6be8d
+  = 0x7ffe9ae6be8e
+b = 0x7ffe9ae6be8f
+r = 0x7ffe9ae6be90
+a = 0x7ffe9ae6be91
+c = 0x7ffe9ae6be92
+k = 0x7ffe9ae6be93
+e = 0x7ffe9ae6be94
+t = 0x7ffe9ae6be95
+s = 0x7ffe9ae6be96
+Amount of the brackets is correct
+```
