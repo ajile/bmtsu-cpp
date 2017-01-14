@@ -1,0 +1,22 @@
+Looking for 1111:
+a#1111- found (sum 1000)
+a#1112
+a#1113
+a#1114
+a#1115
+a#1116
+Looking for 1113:
+a#1111
+a#1112
+a#1113- found (sum 5000)
+a#1114
+a#1115
+a#1116
+Looking for 1116:
+a#1111
+a#1112
+a#1113
+a#1114
+a#1115
+a#1116- found (sum 50000)
+Summa: 56000
