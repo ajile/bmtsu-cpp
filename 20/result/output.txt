@@ -1,0 +1,6 @@
+Sin of the x^n (3^1 equal 0.14112
+Sin of the x^n (3^2 equal 0.412118
+Sin of the x^n (3^3 equal 0.956376
+Sin of the x^n (3^4 equal -0.629888
+The sin_value became negative
+P is true
