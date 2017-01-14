@@ -1,0 +1,26 @@
+# Тема 26. Программирование операций с файлами в С++
+
+Дан текстовый файл F. Записать в перевернутом виде строки файла F в файл G. Порядок строк в файле G должен быть обратным по отношению к порядку строк исходного файла F.
+
+
+## Результат
+
+При вызове без аргументов
+```
+You should pass path to file so: result/main ./F.txt ./G.txt
+```
+
+При вызове с аргументами
+```
+.msiraigalp fo snoitasucca eht gniyned ro gnimrifnoc tuohtiw ,gniyas sa tnemetats eht detouq NNC ",yrtnuoc eht gnicaf seussi laer eht morf tcartsid ot skees taht kcatta detavitom yllacitilop a naht erom gnihton si acinoM tidercsid ot tpmetta ynA"
+
+".noitartsinimda eht ni gnivres eb lliw ehs yhw yltcaxe si dnuora yrtnuoc siht nrut ot woh no krow lufthguoht dna thgisni lanoitpecxe" reh gniyas ,tnemetats a ni yelworC dednefed maet pmurT ehT
+
+.moc.aidepotsevni no dehsilbup elcitra 9002 a morf yltcerid tsomla emac ,elpmaxe rof ,scimonoce naisenyeK no noitces A
+
+.aidepikiW dna stroper knat-kniht ,setisbew ,selcitra swen morf -- segnahc ronim htiw emos -- deipoc snoitces 05 emos gnidnif detroper NNC ",deneppaH tsuJ )peelB( ehT tahW" koob reh gniweiver retfA
+
+.licnuoC ytiruceS lanoitaN eht htiw boj snoitacinummoc roines a ot ,rotatnemmoc sweN xoF dna tsoh oidar-klat a ,yelworC acinoM detanimon sah tcele-tnediserp ehT
+
+.detroper NNC ,koob 2102 reh fo snoitces gniziraigalp fo yadrutaS desucca saw elor snoitacinummoc pot a rof noitartsinimda pmurT dlanoD gnimocni eht yb deppat ytilanosrep aidem evitavresnoc A - )PFA( notgnihsaW
+```
