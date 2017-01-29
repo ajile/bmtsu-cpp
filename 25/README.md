@@ -29,3 +29,7 @@ a#1115
 a#1116- found (sum 50000)
 Summa: 56000
 ```
+
+# Scheme
+
+![](sources/scheme.png)

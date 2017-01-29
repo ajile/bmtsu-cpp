@@ -11,3 +11,7 @@
 (array) Free area is 27.5
 (list)  Free area is 27.5
 ```
+
+# Scheme
+
+![](sources/scheme.png)

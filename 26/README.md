@@ -24,3 +24,7 @@ You should pass path to file so: result/main ./F.txt ./G.txt
 
 .detroper NNC ,koob 2102 reh fo snoitces gniziraigalp fo yadrutaS desucca saw elor snoitacinummoc pot a rof noitartsinimda pmurT dlanoD gnimocni eht yb deppat ytilanosrep aidem evitavresnoc A - )PFA( notgnihsaW
 ```
+
+# Scheme
+
+![](sources/scheme.png)

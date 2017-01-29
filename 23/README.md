@@ -27,3 +27,7 @@
   32
   27
 ```
+
+# Schema
+
+![](sources/schema.png)

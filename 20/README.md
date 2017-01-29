@@ -14,3 +14,7 @@ Sin of the x^n (3^4 equal -0.629888
 The sin_value became negative
 P is true
 ```
+
+# Scheme
+
+![](sources/scheme.png)

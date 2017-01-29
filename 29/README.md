@@ -8,5 +8,28 @@
 ## Результат
 
 ```
-TDB
+# Creating new node for number 1
+# Creating new node for number 2
+# Creating new node for number 3
+# Creating new node for number 4
+# Creating new node for number 5
+# Creating new node for string adsgasdg
+# Creating new node for string hello
+# Creating new node for number 123
+# Creating new node for string world
+# Printing
+String: world
+Integer: 123
+String: hello
+String: adsgasdg
+Integer: 5
+Integer: 4
+Integer: 3
+Integer: 2
+Integer: 1
+The biggest is string: adsgasdg
 ```
+
+# Scheme
+
+![](sources/scheme.png)

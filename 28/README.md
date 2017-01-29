@@ -42,3 +42,7 @@
    Record 8. # info from Record: integer:-7; real:1.5
    Record 9. # info from Record: integer:-9; real:2
 ```
+
+# Scheme
+
+![](sources/scheme.png)

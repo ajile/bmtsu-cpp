@@ -35,3 +35,7 @@ The result matrix:
 45 86 82 67 
 61 37 63 10 
 ```
+
+# Scheme
+
+![](sources/scheme.png)

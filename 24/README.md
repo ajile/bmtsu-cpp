@@ -31,3 +31,9 @@ Letter group amount is greater than sign group amount. Iterating over all senten
   1. Mathematics is1222the tool123specially suited 32886 for dealing with abstract concepts of any kind
   2. 123If123you123ask123mathematicians123333what123they123do123
 ```
+
+# Scheme
+
+![](sources/scheme.png)
+
+![](sources/scheme_getGroups.png)
